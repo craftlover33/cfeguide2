@@ -1,0 +1,179 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA."
+    } 
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Guia",
+      "title": "Que es la CFE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Fque%20es%20la%20CFE.html?alt=media&token=ef2d5438-3325-440e-842c-28d0753a6e72&_gl=1*15ks82n*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI2MzkuNjAuMC4w",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Guia",
+      "title": "Como consultar tu recibo de luz",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FComo%20consultar%20tu%20recibo%20de%20luz.html?alt=media&token=c4e8dea3-d283-4d7a-ba55-0b7701fc66e9&_gl=1*29gbzc*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI2NjMuMzYuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Guia",
+      "title": "Como leer el recibo de luz",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FComo%20leer%20el%20recibo%20de%20luz.html?alt=media&token=073fa198-43e9-4e85-b9fe-53ed61d4a97f&_gl=1*wfgleu*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI2ODIuMTcuMC4w",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Guia",
+      "title": "Reclasificación de tarifa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FReclasificaci%C3%B3n%20de%20tarifa.html?alt=media&token=aba9c78e-4127-4b4e-b649-497ddaf60c18&_gl=1*1wlz1lr*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI2OTYuMy4wLjA.",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Guia",
+      "title": "Que se considera en tu cobro",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FQue%20se%20considera%20en%20tu%20cobro.html?alt=media&token=602a69ec-b3a7-4200-951d-0ce0846bf596&_gl=1*13kt3h6*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI3MTUuNjAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Guia",
+      "title": "Tarifas domésticas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FTarifas%20dom%C3%A9sticas.html?alt=media&token=05af7e3b-7efb-4650-b499-b760317183bd&_gl=1*46n20o*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI3MzYuMzkuMC4w",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Guia",
+      "title": "Que pasa si no pago mi servicio de luz",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FQue%20pasa%20si%20no%20pago%20mi%20servicio%20de%20luz.html?alt=media&token=bb164dbd-7dbf-47f7-8730-6a073de92efc&_gl=1*xvovam*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI3ODYuNjAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Guia",
+      "title": "Cómo ahorrar energía para bajar el consumo de electricidad",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2Ficon.png?alt=media&token=fcc8c0dc-9b2e-41ba-a929-41ced0893df2&_gl=1*1rc6ogm*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzIzMjEuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cfeguia2%2FC%C3%B3mo%20ahorrar%20energ%C3%ADa%20para%20bajar%20el%20consumo%20de%20electricidad.html?alt=media&token=4385dae3-098a-4e81-bbff-f522f8ce1b5f&_gl=1*ckv4ht*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzI4MDMuNDMuMC4w",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
